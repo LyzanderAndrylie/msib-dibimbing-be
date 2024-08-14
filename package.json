@@ -45,11 +45,8 @@
     "express": "^4.19.2",
     "graphql": "^16.9.0",
     "graphql-constraint-directive": "^5.4.3",
-    "install": "^0.13.0",
     "postgres": "^3.4.4",
     "ts-patch": "^3.2.1",
-    "typescript-transform-paths": "^3.4.10",
-    "uninstall": "^0.0.0",
-    "zod": "^3.23.8"
+    "typescript-transform-paths": "^3.4.10"
   }
 }
